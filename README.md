@@ -19,4 +19,4 @@
    - https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code
    - https://github.com/vivek9patel/vivek9patel.github.io
 8. Website Manajement Project
-   - https://github.com/devaslanphp/project-management?tab=readme-ov-file 
+   - https://github.com/devaslanphp/project-management?tab=readme-ov-file (https://dewakoding.com/tutorial/open-source-project-management-programmer-freelance-wajib-pake-ini/3-memberikan-komentar-dan-tampilan-board)
